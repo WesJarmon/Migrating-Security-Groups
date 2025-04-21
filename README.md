@@ -1,7 +1,7 @@
 # Migrating Security Groups Between Clouds
 
 This process is broken up into multiple parts - 
-1) Download security group details from old zCompute cloud via UI Menu -> Security Groups -> Export Spreadsheet CSV
+1) Download security group details from OpsPanel -> Compute Clouds -> Security Groups -> Export Spreadsheet CSV
 2) Take CSV and delete any security groups not being migrated from Column A
 3) Create a blank Column B
 4) Move security_group_ipv4_ingress_rules to Column C
