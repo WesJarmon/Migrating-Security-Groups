@@ -14,4 +14,4 @@ This process is broken up into multiple parts -
 1. **Make sure you have correct permissions to do this from CN command line**
 2. **Make sure all scripts are executable**:
    ```sh
-   chmod +x 2getting-securitygroup-ids.sh
+   chmod +x
